@@ -1,1 +1,1 @@
-# Cooperative-Hybrid-Multi-Agent-Pathfinding-Based-on-Shared-Exploration-Maps
+The code will be made publicly available in a repository after the manuscript is accepted for publication.
